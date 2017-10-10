@@ -1,0 +1,32 @@
+module.exports=[
+    {
+        title:"暑假5折",
+        img:"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1116795411,3628473826&fm=26&gp=0.jpg",
+        link:"http://www.baidu.com"
+    },
+    {
+        title:"发现好货",
+        img:"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2942443485,516868455&fm=26&gp=0.jpg",
+        link:"http://www.baidu.com"
+    },
+    {
+        title:"七夕秒杀",
+        img:"https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3614399711,3197466528&fm=26&gp=0.jpg",
+        link:"http://www.baidu.com"
+    },
+    {
+        title:"特价出国",
+        img:"https://f10.baidu.com/it/u=2471936836,3112303331&fm=72",
+        link:"http://www.baidu.com"
+    },
+    {
+        title:"亮亮车",
+        img:"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2379704363,391646560&fm=26&gp=0.jpg",
+        link:"http://www.baidu.com"
+    },
+    {
+        title:"学钢琴",
+        img:"https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1207794315,3791470871&fm=26&gp=0.jpg",
+        link:"http://www.baidu.com"
+    }
+];

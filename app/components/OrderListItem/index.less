@@ -1,0 +1,58 @@
+.order-list-item{
+  display: flex;
+  padding: 5px;
+  border-top:1px solid #dddddd;
+  img{
+    flex: 1;
+    display: flex;
+    width:100px;
+    height:90px;
+  }
+  .order-list-content,.comment-btn{
+    flex: 1;
+    display: flex;
+  }
+  .order-list-content{
+    color: #666;
+    flex-direction: column;
+    margin-left: 10px;
+    h3{
+      font-size:14px;
+    }
+  }
+  .comment-btn{
+    justify-content: center;
+    align-items: center;
+    button{
+      color: #fff;
+      height:30px;
+      width:60px;
+      border:none;
+      -webkit-border-radius: 3px;
+      -moz-border-radius: 3px;
+      border-radius: 3px;
+    }
+  }
+}
+.comment-area{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  textarea{
+    padding: 10px;
+  }
+  div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+    button{
+      //width: 60px;
+      height:30px;
+      padding:0 20px;
+      background: #ddd;
+      margin-left: 10px;
+      border:1px solid #cccccc;
+    }
+  }
+}

@@ -1,0 +1,39 @@
+.list-item{
+  padding:10px;
+  display: flex;
+  h3{
+    font-size:18px;
+  }
+  img{
+    width:120px;
+    height: 90px;
+  }
+  .list-item-content{
+    margin-left:10px;
+    flex: 1;
+    position: relative;
+    strong{
+      color: #e9203d;
+    }
+    p{
+      line-height:24px;
+      width: 150px;
+      font-size:12px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    div{
+      display: flex;
+      justify-content: space-between;
+      span{
+        color: #ccc;
+      }
+    }
+    .distance{
+      position:absolute;
+      top:0;
+      right: 5px;
+    }
+  }
+}
